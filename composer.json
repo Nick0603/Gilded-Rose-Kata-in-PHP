@@ -1,4 +1,7 @@
 {
+    "scripts": {
+        "test": "kahlan"
+    },
     "require-dev": {
         "crysalead/kahlan": "^1.2"
     },
